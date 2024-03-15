@@ -7,12 +7,12 @@ Follow the steps below to add a new token：
 ```
 {
       "address": "TFJkt4NKKW1wQCVtUpJmMU8Hbz68T2maJd",
-      "symbol": "WIN",
-      "name": "WINkLink",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "decimals": 6,
       "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "homepage": "ethereum.org/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/ethereum/",
       "existingMarkets": [
           {
               "source": "Binance",
